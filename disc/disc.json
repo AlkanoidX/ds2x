@@ -1,0 +1,41 @@
+{
+ "chunk": 8388608,
+ "files": [
+  {
+   "path": "default.xex",
+   "size": 14069760,
+   "chunks": 2,
+   "sha256": "928597ddb80240b8aefeef0a70a9476ee85d6de733035b326dd155c2094a3408"
+  },
+  {
+   "path": "default.xexp",
+   "size": 1288192,
+   "chunks": 1,
+   "sha256": "8d386d37e8f71937b9d9c4b34bdbf85240101479c8aaece1002d94e7cdc01ec2"
+  },
+  {
+   "path": "AvatarAssetPack",
+   "size": 13799424,
+   "chunks": 2,
+   "sha256": "2b5849e2e4ca582c94d23541dfe5960dde0f0111ec3b29dff1f3f290d6c6e6fa"
+  },
+  {
+   "path": "nxeart",
+   "size": 589824,
+   "chunks": 1,
+   "sha256": "395015ee76216397eda5dd41d093541af6ec289060d42c8cd91783763e56aa52"
+  },
+  {
+   "path": "bigfile0.viv",
+   "size": 3274614784,
+   "chunks": 391,
+   "sha256": "caaaf8c43e0539e9aa5b3c00e5d7902c8181173bb280e0b193843348f8493011"
+  },
+  {
+   "path": "bigfile1.viv",
+   "size": 3390031932,
+   "chunks": 405,
+   "sha256": "e28aadacfc0683444ce0b2d2e19021c29f47322d9e7b59866e65fcf859724618"
+  }
+ ]
+}
